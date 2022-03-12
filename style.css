@@ -1,0 +1,31 @@
+.header{
+    justify-content: center;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    
+    background-color: lightpink;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.h1{
+    justify-content: center
+    
+}
+
+.cell{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    margin: 20px;
+    display: flex;
+}
